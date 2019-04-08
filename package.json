@@ -1,0 +1,27 @@
+{
+  "name": "ident",
+  "version": "1.0.0",
+  "description": "\"Identificacion\"",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strdbr/legendary-octo-goggles.git"
+  },
+  "author": "Emmanuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/strdbr/legendary-octo-goggles/issues"
+  },
+  "homepage": "https://github.com/strdbr/legendary-octo-goggles#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.7"
+  },
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.8.1"
+  }
+}
